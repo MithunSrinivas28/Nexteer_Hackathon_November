@@ -1,7 +1,5 @@
 # Nexteer_Hackathon_November
 
-Here’s a **clear and professional project brief with the dataflow**, perfect for adding to your GitHub README or sharing with collaborators 👇
-
 ---
 
 ## 🚗 Smart Parking System – Data-Driven Intelligent Parking Solution
@@ -63,4 +61,3 @@ All data is synced to **Google Sheets** for cloud logging and displayed on a **l
 
 ---
 
-Would you like me to format this for direct use as a **GitHub README section** (with Markdown headings, emojis, and structure)? It’ll look clean and ready to paste.
